@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **RishabhShahIITGN/RishabhShahIITGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+# Hello, I'm Rishabh Shah 
+
+### Sophomore | IIT Gandhinagar (IIT GN)
+
+---
+
+**Welcome to my coding space!**
+
+</div>
