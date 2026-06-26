@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello, I'm Rishabh Shah 
 
-### Sophomore | IIT Gandhinagar (IIT GN)
+### Junior Undergraduate | IIT Gandhinagar (IIT GN)
 
 ---
 
